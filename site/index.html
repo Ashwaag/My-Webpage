@@ -2,29 +2,23 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title>University of San Francisco</title>
-    
+    <title>Number Guessing</title>
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Spicy+Rice" rel="stylesheet">
   </head>
   <body>
-    <img src="https://raw.githubusercontent.com/Ashwaag/My-Webpage/master/USF.png" width= "450" height= "120" controls/>
-    <h1>USF Student Platform</h1>
+    <section class="overlay">
+      <h1>Guess the right number!</h1>
+      <form action="check.html" method="GET">
+        <!--Add a required attribute to the input element-->
+        <label for="guess">Enter a number between 1-10:</label>
+        <br>
+        <input type="number" name="guess" id="guess" required>
+        <br>
+        <input type="submit" id="submission" value="Submit">
+      </form>
+    </section>
   </body>
-  <table style="
-  border: 1px solid black;
-  font-family: Arial, sans-serif;
-  text-align: center;">
-  <tbody>
-    <tr>
-      <th></th>
-      <th>Student Name</th>
-      <th>Test Result</th>
-    </tr>
-    <tr>
-      <th>Oral Test</th>
-      <td >Ashwaag Bazaid</td>
-      <td >Pass</td>
-    </tr>
-    
-  </tbody>
-  </table>
 </html>
+
+ 
