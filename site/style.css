@@ -1,0 +1,44 @@
+h1 {
+	background-image: url("/Users/ashwaagbazaid/Desktop/My-Webpage/site/wave.png");
+	font-family: 'Covered By Your Grace', sans-serif;
+    font-size: 100px;
+    position: relative;
+    text-align: center;
+    top: 20%;
+    color:MidnightBlue;
+}
+ul {
+  margin: 30px auto;
+  padding: 0 20px;
+  text-align: center;
+}
+
+li {
+  display: inline-block;
+  width: 80px;
+  color: #FFF;
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+li:hover {
+  color: #DBE9EE;
+}
+
+h3 {
+  color: #466995;
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+  text-align: center;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 30px;
+}
+
+footer {
+  background-color: #DBE9EE;
+  text-align: center;
+  height: 100px;
+}
