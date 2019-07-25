@@ -3,7 +3,7 @@
 }
 
 h2 {
-	background-image: url("/Ashwaag/My-Webpage/master/site/waves.png");
+	background-image: url("./site/waves.png");
   text-align: center;
 	font-family: "Comic Sans MS", cursive, sans-serif;
   font-size: 40px;
@@ -18,7 +18,7 @@ li {
   top: 20px;
   left: 50px;
   width: 80px;
-  color: #FFF;
+  color: #466995;
   font-family:"Oswald", "sans-serif";
   font-size: 16px;
   font-weight: 300;
@@ -29,15 +29,18 @@ li:hover {
   color: #DBE9EE;
 }
 
-
+h3{
+  color: #466995;
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+  text-align: center;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 30px;
+}
 
 footer {
   color: #466995;
-  font-family: 'Oswald', sans-serif;
-  position: relative;
-  top: 10px;
-  left: 30px;
-  background-color: #DBE9EE;
   text-align: center;
   height: 100px;
 }
