@@ -3,7 +3,7 @@
 }
  .header{
 
-  background-image: url(images/wave.jpg) repeat 0 0;
+  background: url(images/wave.jpg) repeat 0 0;
   height: 400px;
   background-position: center center;
   
