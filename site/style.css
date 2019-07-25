@@ -3,7 +3,7 @@
 }
  .header{
 
-  background-image: url(images/wave.jpg);
+  background: url(images/wave.jpg);
   height: 200px;
   background-position: center center;
   
@@ -24,7 +24,7 @@ h2 {
 li {
 
   display: inline-block;
-  width: 200 px;
+  width: 200px;
   position: relative;
   top: 20px;
   color: #466995;
