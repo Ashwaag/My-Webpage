@@ -1,20 +1,24 @@
 *{
   box-sizing: border-box;
 }
-
+ .header{
+  background-image: url("/Users/ashwaagbazaid/Desktop/My-Webpage/site/wave.jpg");
+  height: 400px;
+  background-position: center center;
+  
+ }
 h2 {
-	background-image: url("/Users/ashwaagbazaid/Desktop/My-Webpage/site/wave.jpg");
-  margin: 0 auto;
-  text-align: center;
+	
 	font-family: "Comic Sans MS", cursive, sans-serif;
   font-size: 40px;
+  line-height: 76px;
+  margin: 0;
+  position: relative;
+  text-align: center;
+  top: 20%;
   color: DeepSkyBlue;
 }
-ul {
-  margin: 30px auto;
-  padding: 0 20px;
-  text-align: center;
-}
+
 
 li {
 
