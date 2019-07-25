@@ -4,20 +4,25 @@
 
 h2 {
 	background-image: url("./site/waves.png");
+  margin: 0 auto;
   text-align: center;
 	font-family: "Comic Sans MS", cursive, sans-serif;
   font-size: 40px;
   color: DeepSkyBlue;
 }
-
+ul {
+  margin: 30px auto;
+  padding: 0 20px;
+  text-align: center;
+}
 
 li {
 
   display: inline-block;
-  position: relative;
-  top: 20px;
-  left: 50px;
   width: 80px;
+  position: fixed;
+  width:100%;
+  z-index:10;
   color: #466995;
   font-family:"Oswald", "sans-serif";
   font-size: 16px;
@@ -40,7 +45,7 @@ h3{
 }
 
 footer {
-  color: #466995;
+  background-color: #DBE9EE;
   text-align: center;
   height: 100px;
 }
