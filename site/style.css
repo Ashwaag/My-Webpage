@@ -3,7 +3,7 @@
 }
  .header{
 
-  background-image: url(site/wave.jpg);
+  background-image: url(./wave.jpg);
   height: 400px;
   background-position: center center;
   
@@ -24,7 +24,7 @@ h2 {
 li {
 
   display: inline-block;
-  width: 80px;
+  width: 100px;
   position: relative;
   top: 20px;
   left: 80px;
