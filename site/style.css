@@ -1,6 +1,6 @@
 h2 {
 	background-image: url("My-Webpage/site/wave.png");
-	font-family: "Covered By Your Grace";
+	font-family: "Covered By Your Grace", sans-serif;
   font-size: 40px;
   position: relative;
   text-align: center;
@@ -8,11 +8,7 @@ h2 {
   color: MidnightBlue;
 }
 
-ul {
-  margin: 30px auto;
-  padding: 0 20px;
-  text-align: center;
-}
+
 
 li {
 
@@ -20,7 +16,7 @@ li {
   position: relative;
   width: 80px;
   color: #FFF;
-  font-family: "sans-serif";
+  font-family:"Oswald", "sans-serif";
   font-size: 16px;
   font-weight: 300;
   text-transform: uppercase;
