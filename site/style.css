@@ -1,11 +1,11 @@
 h1 {
-	background-image: url("/Users/ashwaagbazaid/Desktop/My-Webpage/site/wave.png");
+	background-image: url("My-Webpage/site/wave.png");
 	font-family: 'Covered By Your Grace', sans-serif;
-    font-size: 100px;
-    position: relative;
-    text-align: center;
-    top: 20%;
-    color: MidnightBlue;
+  font-size: 100px;
+  position: relative;
+  text-align: center;
+  top: 20%;
+  color: MidnightBlue;
 }
 
 ul {
