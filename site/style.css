@@ -3,8 +3,8 @@
 }
  .header{
 
-  background-image: url(./wave.jpg);
-  height: 400px;
+  background-image: url(images/wave.jpg);
+  height: 200px;
   background-position: center center;
   
  }
@@ -24,10 +24,9 @@ h2 {
 li {
 
   display: inline-block;
-  width: 100px;
+  width: 200 px;
   position: relative;
   top: 20px;
-  left: 80px;
   color: #466995;
   font-family:"Oswald", "sans-serif";
   font-size: 16px;
