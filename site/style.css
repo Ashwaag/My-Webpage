@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
  .header{
-  background-image: url("https://www.istockphoto.com/vector/sea-wave-sketch-vector-illustration-gm1038091922-277869204");
+  background: url("./site/wave.jpg");
   height: 400px;
   background-position: center center;
   
