@@ -4,8 +4,8 @@
  .header{
 
   background: url(/images/wave.png) repeat 0 0;
-  height: 600px;
-  width: 600px
+  height: 700px;
+  width: 900px
   background-position: center center;
   
  }
@@ -18,7 +18,7 @@ h2 {
   position: relative;
   text-align: center;
   top: 20%;
-  color: DeepSkyBlue;
+  color: MidnightBlue;
 }
 
 
