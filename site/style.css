@@ -1,6 +1,6 @@
 h2 {
-	background-image: url("My-Webpage/site/waves.png");
-	font-family: "Covered By Your Grace", sans-serif;
+	background-image: url("./site/waves.png");
+	font-family: "Comic Sans MS", cursive, sans-serif;
   font-size: 40px;
   position: relative;
   text-align: center;
@@ -27,20 +27,14 @@ li:hover {
   color: #DBE9EE;
 }
 
-h3 {
+
+
+footer {
   color: #466995;
   font-family: 'Oswald', sans-serif;
   position: relative;
   top: 10px;
   left: 30px;
-  font-size: 18px;
-  text-align: center;
-  font-weight: 700;
-  text-transform: uppercase;
-  padding: 30px;
-}
-
-footer {
   background-color: #DBE9EE;
   text-align: center;
   height: 100px;
