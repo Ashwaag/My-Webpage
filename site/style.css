@@ -1,11 +1,13 @@
+*{
+  box-sizing: border-box;
+}
+
 h2 {
-	background-image: url("./site/waves.png");
+	background-image: url("My-Webpage/site/waves.png");
+  text-align: center;
 	font-family: "Comic Sans MS", cursive, sans-serif;
   font-size: 40px;
-  position: relative;
-  text-align: center;
-  top: 20%;
-  color: MidnightBlue;
+  color: DeepSkyBlue;
 }
 
 
