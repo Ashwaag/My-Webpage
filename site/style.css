@@ -3,9 +3,9 @@
   box-sizing: border-box;
 }
 .header{
-  background:url(/images/wave.png);
-  height: 400px;
-  width: 600px;
+  background: url(/images/wave.png);
+  height: 100px;
+  width: 400px;
   background-position: center center;
 }
 
