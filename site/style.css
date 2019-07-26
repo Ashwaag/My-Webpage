@@ -18,7 +18,7 @@ h2 {
   font-size: 40px;
   line-height: 76px;
   margin: 0;
-  position: relative;
+  position: absolute;
   text-align: center;
   color:MidnightBlue;
 }
