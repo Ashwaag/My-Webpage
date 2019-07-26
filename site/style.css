@@ -2,8 +2,9 @@
 * {
   box-sizing: border-box;
 }
-.header{
-  background: url("./images/wave.png");
+.header {
+
+  background: url("./images/wave.png") no-repeat;
   height: 640px;
   width: 1200px;
   background-position: center center;
