@@ -6,9 +6,8 @@
  .header{
 
   background: url(/images/wave.png);
-  display: relative;
-  height: 700px;
-  width: 800px;
+  height: 400px;
+  width: 600px;
   background-position: center center;
   
  }
