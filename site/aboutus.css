@@ -1,16 +1,28 @@
 *{
 box-sizing: border-box;
 }
+body{
+	background-color:PaleTurquoise;
+}
+h1{
+color:Navy;	
+text-align: center;	
+}
 div {
-	background-color:LightSeaGreen;
-	border-style: double Teal; 
-	height: 640px;
-    width: 1200px;
-    background-position: center center;
+    
+    background-position: center;
+    text-align: center;
 }
 p{
+	display: inline-block; 
+	background-color:LightSeaGreen;
+	border-style: double;
+	border-width: 7px;
+    border-color:Teal; 
+	height: 440px;
+    width: 600px;
 	font-family: "Comic Sans MS", cursive, sans-serif;
 	font-size: 14px;
-	font-weight: 700;
+	font-weight: 400px;
 	text-align: center;
 }
