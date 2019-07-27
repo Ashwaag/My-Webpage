@@ -1,11 +1,13 @@
 *{
 box-sizing: border-box;
 }
+body{
+  background: url("./wave.png") no-repeat center center fixed;
+  height: 640px;
+  width: 1200px;
+  background-position: center center;
+}
 h1 {
-	height: 60px;
-	width: 60px;
-	border: 3px solid;
-	border-radius: 100%;
 	font-family:"Comic Sans MS", cursive, sans-serif
 	font-size: 16px;
     font-weight: 700;
@@ -13,24 +15,24 @@ h1 {
     text-align: center;
     height: 100px;
 }
+div{
+	text-align: center;
+	background-position: center;
+}
  h3 {
  font-family: 'Oswald', sans-serif;
  font-size: 14px;
  font-weight: 700;
  color:Teal;
  text-align: center;
- height: 100px;
+ height: 20px;
  }
- 
+ ul { display: inline-block; text-align: left; }
  li {
-
-  width: 200px;
-  position: relative;
-  top: 20px;
-  color: #466995;
+  color:Navy;
   font-family:"Oswald", "sans-serif";
   font-size: 12px;
   font-weight: 300;
-  text-transform: uppercase;
+
 }
 
