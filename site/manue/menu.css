@@ -1,0 +1,36 @@
+*{
+box-sizing: border-box;
+}
+h1 {
+	height: 60px;
+	width: 60px;
+	border: 3px solid;
+	border-radius: 100%;
+	font-family:"Comic Sans MS", cursive, sans-serif
+	font-size: 16px;
+    font-weight: 700;
+    color:Black;
+    text-align: center;
+    height: 100px;
+}
+ h3 {
+ font-family: 'Oswald', sans-serif;
+ font-size: 14px;
+ font-weight: 700;
+ color:Teal;
+ text-align: center;
+ height: 100px;
+ }
+ 
+ li {
+
+  width: 200px;
+  position: relative;
+  top: 20px;
+  color: #466995;
+  font-family:"Oswald", "sans-serif";
+  font-size: 12px;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
