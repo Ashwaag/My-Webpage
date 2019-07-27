@@ -1,0 +1,38 @@
+*{
+box-sizing: border-box;
+}
+body{
+  background: url("./images/wave.png") no-repeat center center fixed;
+  height: 640px;
+  width: 1200px;
+  background-position: center center;
+}
+h1 {
+	font-family:"Comic Sans MS", cursive, sans-serif
+	font-size: 16px;
+    font-weight: 700;
+    color:Black;
+    text-align: center;
+    height: 100px;
+}
+div{
+	text-align: center;
+	background-position: center;
+}
+ h3 {
+ font-family: 'Oswald', sans-serif;
+ font-size: 14px;
+ font-weight: 700;
+ color:Teal;
+ text-align: center;
+ height: 20px;
+ }
+ ul { display: inline-block; text-align: left; }
+ li {
+  color:Navy;
+  font-family:"Oswald", "sans-serif";
+  font-size: 12px;
+  font-weight: 300;
+
+}
+

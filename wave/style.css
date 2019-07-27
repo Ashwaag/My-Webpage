@@ -1,0 +1,69 @@
+
+* {
+  box-sizing: border-box;
+}
+.header {
+
+  background: url("./images/wave.png") no-repeat center center fixed;
+  height: 640px;
+  width: 1200px;
+  background-position: center center;
+}
+
+h2 {
+
+	font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 40px;
+  line-height: 76px;
+  margin: 0;
+  position: relative;
+  text-align: center;
+  top: 20%;
+  color:MidnightBlue;
+}
+
+
+li {
+
+  display: inline-block;
+  width: 200px;
+  position: relative;
+  top: 20px;
+  color: #466995;
+  font-family:"Oswald", "sans-serif";
+  font-size: 16px;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+li:hover {
+  color: #DBE9EE;
+}
+
+h3{
+  color: #466995;
+  font-family: 'Oswald', sans-serif;
+  font-size: 18px;
+  text-align: center;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 30px;
+}
+
+h6{
+
+  color: #466995;
+  font-family: 'Oswald', sans-serif;
+  font-size: 10px;
+  text-align: center;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 30px;
+
+}
+
+footer {
+  background-color: #DBE9EE;
+  text-align: center;
+  height: 100px;
+}
