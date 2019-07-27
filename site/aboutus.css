@@ -1,0 +1,16 @@
+*{
+box-sizing: border-box;
+}
+div {
+	background-color:LightSeaGreen;
+	border-style: double Teal; 
+	height: 640px;
+    width: 1200px;
+    background-position: center center;
+}
+p{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 14px;
+	font-weight: 700;
+	text-align: center;
+}
