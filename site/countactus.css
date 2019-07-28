@@ -1,0 +1,31 @@
+*{
+box-sizing: border-box;
+}
+body{
+  background: url("./images/wave.png") no-repeat center center fixed;
+  height: 640px;
+  width: 1200px;
+  background-position: center center;
+}
+h1{font-family:"Comic Sans MS", cursive, sans-serif
+	font-size: 18px;
+    font-weight: 700;
+    color:Black;
+    text-align: center;
+    height: 100px;
+}
+h2 {
+	font-family:"Comic Sans MS", cursive, sans-serif
+	font-size: 16px;
+    font-weight: 700;
+    color:Black;
+    text-align: center;
+    height: 100px;
+}
+h3 {
+ font-family: 'Oswald', sans-serif;
+ font-size: 14px;
+ font-weight: 700;
+ color:Teal;
+ height: 20px;
+ }
