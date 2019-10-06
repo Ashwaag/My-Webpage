@@ -3,16 +3,17 @@
   box-sizing: border-box;
 }
 .header {
-
+  border-radius: 100px;
+  border: 4px solid MidnightBlue;
   background: url("./images/wave.png") no-repeat center center fixed;
   height: 580px;
   width: 1200px;
-  background-position: center center;
+  background-position: center center 100% 100%;
 }
 
 h2 {
 
-	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-family: 'Indie Flower', cursive;
   font-size: 40px;
   line-height: 76px;
   margin: 0;
@@ -30,7 +31,7 @@ li {
   position: relative;
   top: 20px;
   color: #466995;
-  font-family:"Oswald", "sans-serif";
+  font-family: 'Shadows Into Light', cursive;
   font-size: 16px;
   font-weight: 300;
   text-transform: uppercase;
@@ -42,7 +43,7 @@ li:hover {
 
 h3{
   color: #466995;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Shadows Into Light', cursive;
   font-size: 18px;
   text-align: center;
   font-weight: 700;
@@ -53,7 +54,7 @@ h3{
 h6{
 
   color: #466995;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Shadows Into Light', cursive;
   font-size: 10px;
   text-align: center;
   font-weight: 700;
