@@ -3,7 +3,6 @@ box-sizing: border-box;
 }
 body{
   background-image: url("./images/wave.png") no-repeat center center fixed;
-  background-color: #466995;
   opacity: 0.5;
   margin-left: 20%;
   margin-right: 20%
@@ -15,10 +14,10 @@ body{
 h1 {
 	font-family: 'Shadows Into Light', cursive;
 	font-size: 16px;
-    font-weight: 700;
-    color:Black;
-    text-align: center;
-    height: 100px;
+  font-weight: 700;
+  color:Black;
+  text-align: center;
+  height: 100px;
 }
 div{
 	text-align: center;
@@ -28,7 +27,7 @@ div{
  font-family: 'Shadows Into Light', cursive;
  font-size: 14px;
  font-weight: 700;
- color:Teal;
+ color:MidnightBlue;
  w
  height: 20px;
  }
