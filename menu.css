@@ -12,7 +12,7 @@ h1 {
 	font-family: 'Shadows Into Light', cursive;
 	font-size: 20px;
   font-weight: 700;
-  color:Black;
+  color:#191970;
   font-weight:bold;
   text-align: center;
   height: 100px;
@@ -23,7 +23,7 @@ div{
   margin-right: 20%;
   border:2px solid  #4682B4;
 
-  background: url("./images/wave.png") no-repeat center center;
+  background: url("./images/wave.png") no-repeat center center fixed;
   box-shadow: 5px 10px 8px #888888;
   border-radius: 10%;
   height: 500px;
