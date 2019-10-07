@@ -22,12 +22,11 @@ div{
   margin-left: 20%;
   margin-right: 20%;
   border:2px solid  #4682B4;
-
   background: url("./images/wave.png") no-repeat center center fixed;
   box-shadow: 5px 10px 8px #888888;
   border-radius: 10%;
   height: 500px;
-  width: 770px;
+  width: 750px;
   text-align: center;
   background-position: center center;
 }
