@@ -1,34 +1,42 @@
 *{
 box-sizing: border-box;
+
 }
+
 body{
-  background-image: url("./images/wave.png") no-repeat center center fixed;
-  opacity: 0.5;
-  margin-left: 20%;
-  margin-right: 20%
-  border:2px solid #DBE9EE;
-  height: 640px;
-  width: 1200px;
-  background-position: center center;
+  background-color:#B0E0E6;
+   
 }
+
 h1 {
 	font-family: 'Shadows Into Light', cursive;
-	font-size: 16px;
+	font-size: 20px;
   font-weight: 700;
-  color:Black;
+  color:#191970;
+  font-weight:bold;
   text-align: center;
   height: 100px;
 }
 div{
-	text-align: center;
-	background-position: center;
+	
+  margin-left: 20%;
+  margin-right: 20%;
+  border:2px solid  #4682B4;
+
+  background: url("./images/wave.png") no-repeat center center fixed;
+  box-shadow: 5px 10px 8px #888888;
+  border-radius: 10%;
+  height: 500px;
+  width: 770px;
+  text-align: center;
+  background-position: center center;
 }
  h2 {
  font-family: 'Shadows Into Light', cursive;
- font-size: 14px;
+ font-size: 16px;
  font-weight: 700;
  color:MidnightBlue;
- w
+ font-weight:bold;
  height: 20px;
  }
   
@@ -36,7 +44,8 @@ div{
   display: inline-block; text-align: left;
   color:Navy;
   font-family: 'Shadows Into Light', cursive;
-  font-size: 12px;
+  font-weight:bold;
+  font-size: 14px;
   font-weight: 300;
 
 }
