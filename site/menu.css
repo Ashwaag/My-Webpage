@@ -23,7 +23,7 @@ div{
   margin-right: 20%;
   border:2px solid  #4682B4;
   position: relative;
-  right:-80px;
+  right:-100px;
   background: url("./images/wave.png") 100% 100%;
   box-shadow: 5px 10px 8px #888888;
   border-radius: 100%;
