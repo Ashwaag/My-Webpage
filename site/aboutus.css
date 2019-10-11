@@ -8,6 +8,12 @@ h1{
 color:Navy;	
 text-align: center;	
 }
+h3{
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-size: 14px;
+	font-weight: 400px;
+	text-align: center;
+}
 div {
     
     background-position: center;
