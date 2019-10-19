@@ -23,11 +23,8 @@ div{
   margin-right: 20%;
   border:2px solid  #4682B4;
   position: relative;
-<<<<<<< HEAD
   right:-80px;
-=======
   right:-100px;
->>>>>>> 59b40e4828dd9e8987c6dead0608ab4a9499b679
   background: url("./images/wave.png") 100% 100%;
   box-shadow: 5px 10px 8px #888888;
   border-radius: 100%;
@@ -44,16 +41,16 @@ div{
  font-weight:bold;
  height: 20px;
  }
-<<<<<<< HEAD
+
   h3{
   font-family: "Comic Sans MS", cursive, sans-serif;
-  font-size: 14px;
+  font-size: 12px;
   font-weight: 400px;
   text-align: center;
 }
-=======
+
   
->>>>>>> 59b40e4828dd9e8987c6dead0608ab4a9499b679
+
  p {
   display: inline-block; text-align: center;
   color:Navy;
